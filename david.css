@@ -1,0 +1,12 @@
+body {
+	font-family: 'Cutive Mono', monospace;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 10%;
+}
+
+.visibility {
+	display: none;
+}
